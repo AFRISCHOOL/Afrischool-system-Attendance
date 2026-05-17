@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research Use](https://img.shields.io/badge/Purpose-Research-blue.svg)]()
 [![ML Enhanced](https://img.shields.io/badge/ML-Demo_Integration-orange.svg)]()
+[![Go to ML Dashboard](https://img.shields.io/badge/🚀_Go_to_ML_Dashboard-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://afrischool.github.io/Afrischool-system-Attendance/dashboard/)
 
 > **⚠️ IMPORTANT DISCLAIMER:** This is a **RESEARCH DEMONSTRATION** tool. It is NOT intended for autonomous decision-making about students. All risk assessments should be reviewed by qualified educators and administrators before any action is taken.
 
